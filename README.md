@@ -18,7 +18,7 @@
 
 ### 🤝 Open to Collaborate On:
 
-- 🧠 Innovative Web Apps (MERN, Vanilla JS, or Full Stack)
+- 🧠 Innovative Web Apps 
 - 🔍 Open Source Contributions  
 - 💡 Python or Java-based Backend Tools  
 - 🎮 Fun Projects (Typing games, Dev tools, mini-apps)  
