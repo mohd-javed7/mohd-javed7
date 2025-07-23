@@ -14,6 +14,16 @@
 - **Tools & Platforms:** Git, GitHub, Postman, VS Code  
 
 
+---
+
+### 🤝 Open to Collaborate On:
+
+- 🧠 Innovative Web Apps (MERN, Vanilla JS, or Full Stack)
+- 🔍 Open Source Contributions  
+- 💡 Python or Java-based Backend Tools  
+- 🎮 Fun Projects (Typing games, Dev tools, mini-apps)  
+- ☁️ Cloud Projects using AWS / Deployment Tools  
+- 👨‍🏫 Teaching or Mentorship for Beginners in C, C++, Java, or Python
 
 
 ---
