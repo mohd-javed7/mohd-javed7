@@ -1,16 +1,33 @@
-## Hi there 👋
+### 👋 Hello! I'm Javed
 
-<!--
-**mohd-javed7/mohd-javed7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Frontend & Fullstack Dev | 
+🎯 Building fast, minimal, and fun apps to learn & grow.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔧 Tech Stack & Skills:
+
+- **Frontend:** React.js, JavaScript, HTML, CSS  
+- **Backend:** Node.js, Express.js, MongoDB  
+- **Languages:** C, C++, Java, Python, JavaScript  
+- **Cloud & Deployment:** Vercel, Render, AWS (EC2, S3 basics)  
+- **Tools & Platforms:** Git, GitHub, Postman, VS Code  
+
+
+
+
+---
+
+### 📌 Pinned Projects:
+- 🔤 [TypingApp](https://github.com/mohd-javed7/TypingApp): Typing speed tracker with leaderboard, modes, and auth
+
+---
+
+### 📊 GitHub Stats
+![Javed's GitHub stats](https://github-readme-stats.vercel.app/api?username=mohd-javed7&show_icons=true&theme=radical)
+
+---
+
+### 🔗 Connect with me:
+[Twitter](https://x.com/Javed35984979) | [Discord](https://discordapp.com/users/628280143760326688) | [GitHub](https://github.com/mohd-javed7)
+
